@@ -9,6 +9,9 @@
     "build": "lerna run build --include-dependencies --stream",
     "git": "git add . && git commit -m '-' && git push origin master"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "lerna": "^6.1.0"
   }

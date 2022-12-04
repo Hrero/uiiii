@@ -16,7 +16,7 @@
   "scripts": {
     "test": "node ./__tests__/cli.test.js"
   },
-  "gitHead": "83ada5421d35071354c5e1da03e5ad8eb4b11f54",
+  "gitHead": "c3dad05fffa2d91c7b51dcc3dd8a70fd7c66a09d",
   "dependencies": {
     "@uiiii/utils": "^0.0.7",
     "chalk": "^5.1.2"
