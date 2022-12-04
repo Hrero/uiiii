@@ -17,7 +17,8 @@
     "test": "node ./__tests__/utils.test.js"
   },
   "dependencies": {
+    "chalk": "^5.1.2",
     "lodash": "^4.17.21"
   },
-  "gitHead": "be2e0be5a7c5b36b77c7e054582f6e8ec2662837"
+  "gitHead": "83ada5421d35071354c5e1da03e5ad8eb4b11f54"
 }
