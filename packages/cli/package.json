@@ -1,6 +1,6 @@
 {
   "name": "@uiiii/cli",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "> TODO: description",
   "author": "haozengrun <haozengrun_v@didiglobal.com>",
   "homepage": "",
@@ -18,7 +18,7 @@
   },
   "gitHead": "cfd07dc44574f7b4cd8b782e15c64f8998d34c97",
   "dependencies": {
-    "@uiiii/utils": "^0.0.9",
+    "@uiiii/utils": "^0.0.10",
     "chalk": "^5.1.2"
   }
 }
