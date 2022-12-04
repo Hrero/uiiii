@@ -1,0 +1,19 @@
+{
+  "name": "@uiiii/cli",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "haozengrun <haozengrun_v@didiglobal.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/cli.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/cli.test.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "@uiiii/utils",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "haozengrun <haozengrun_v@didiglobal.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/utils.test.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
